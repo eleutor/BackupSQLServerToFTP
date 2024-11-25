@@ -2,7 +2,7 @@
 chcp 65001 >nul
 
 REM Variables de configuración
-set BACKUP_UBICA=C:\carpetaorigenscript
+set BACKUP_UBICA=C:\carpetaorixenscript
 
 REM Carpeta destino do FTP (cambiala)
 set DEST_FTP=/nome_da_maquina
